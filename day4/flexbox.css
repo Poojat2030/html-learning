@@ -1,0 +1,15 @@
+.child{
+    background-color:red ;
+    height: 200px;
+    width:300px; 
+    margin-top: 5px;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    flex-direction:row;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
